@@ -1,0 +1,15 @@
+{
+  "name": "hrm",
+  "version": "1.0.0",
+  "description": "Backend For HRM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HRM",
+    "Backend"
+  ],
+  "author": "Shivam Joshi",
+  "license": "ISC"
+}
